@@ -2,6 +2,7 @@
 # Line
 1. DDA Line Algorithm
 2. Bresenham's Line Algorithm
+3. Mid-Point Line Generation Algorithm
  
 # Circle
 1. Mid - Point Circle Algorithm
