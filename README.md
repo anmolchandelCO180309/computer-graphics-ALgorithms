@@ -1,7 +1,7 @@
 # Computer-graphics-Algorithms
 # Line
-DDA Line Algorithm-
-Bresenham's Line Algorithm
+1. DDA Line Algorithm
+2. Bresenham's Line Algorithm
  
 # Circle
 Mid - Point Circle Algorithm
